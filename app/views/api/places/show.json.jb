@@ -1,0 +1,2 @@
+render partial: "place.json.jb",
+locals: {place: @place}
